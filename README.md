@@ -39,7 +39,7 @@
 <img src='https://github.com/Yongqi10/Assignment-0/blob/master/17.png' />
 
 * 18-pairSum
-<img src='https://github.com/Yongqi10/Assignment-0/blob/master/18.png' />
+<img src='https://github.com/Yongqi10/Assignment-0/blob/master/18-2.png' />
 * 19-binarySearch
 
 <img src='https://github.com/Yongqi10/Assignment-0/blob/master/19.png' />

@@ -3,7 +3,7 @@ const { markdown } = require("mocha/lib/reporters");
 function pairSum(nums, target) {
   // Insert code here;
   try {
-    if(nums.length < 1) throw "The size need to be 2 or more"
+    if(nums.length <= 1) throw "The size need to be 2 or more"
   } 
   catch (error) {
     throw new Error("The size need to be 2 or more");
